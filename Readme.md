@@ -1,4 +1,6 @@
-## Hi there 👋, Welcome to my Github page!
+<h3>Hi there 👋, Welcome to my Github page!</h3>
+<hr>
+<p>Check out my portfolio <a href='https://priyanshu-gupta.vercel.app/'>priyanshu-gupta.vercel.com</a></p>
 
-### I'm Priyanshu current pursuing my bachelors in Computer Science Engineering
-### Check out my portfolio [priyanshu-gupta.vercel.app](https://priyanshu-gupta.vercel.app/)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu16095&" alt="priyanshu16095" /></p>
+
