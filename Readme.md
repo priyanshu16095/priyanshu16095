@@ -1,4 +1,4 @@
-<h3>Hi there 👋, Welcome to my Github page!</h3>
+<h2>Hi there 👋, Welcome to my Github page!</h2>
 <hr>
 <p>Check out my portfolio <a href='https://priyanshu-gupta.vercel.app/'>priyanshu-gupta.vercel.com</a></p>
 
